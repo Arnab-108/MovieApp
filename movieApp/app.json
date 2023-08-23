@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "movieApp",
-    "slug": "movieApp"
+    "slug": "movieApp",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6feda612-6897-473c-b7e6-e112c8bfa537"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6feda612-6897-473c-b7e6-e112c8bfa537"
+    },
+    "android": {},
+    "ios": {}
   }
 }
