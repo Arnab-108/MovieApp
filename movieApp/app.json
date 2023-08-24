@@ -23,7 +23,9 @@
     "updates": {
       "url": "https://u.expo.dev/6feda612-6897-473c-b7e6-e112c8bfa537"
     },
-    "android": {},
+    "android": {
+      "package": "com.arnab205.movieApp"
+    },
     "ios": {}
   }
 }
